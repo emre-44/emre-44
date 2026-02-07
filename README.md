@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**emre-44/emre-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/emre-44/emre-44/raw/main/profile.gif" width="250" height="312" style="border-radius:8px;box-shadow:0 4px 20px rgba(0,0,0,0.3);margin-right:40px;">
 
-Here are some ideas to get you started:
+<br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **This is my only account.**
+<br>
+
+> It is **<code style="color: limegreen ; background: transparent; border: none; padding: 0;">hard work</code>**, perseverance, learning,
+> studying, sacrifice and most of all,
+> **<code style="color: red ; background: transparent; border: none; padding: 0;">love</code>** of what you are doing
+> or learning to do.
+>
+> The price of success is hard work,
+> dedication to the job at hand,
+> and the determination that
+> whether we win or lose,
+> we have applied
+> **<code style="color: limegreen ; background: transparent; border: none; padding: 0;">the best of ourselves</code>**
+> to the task at hand.
